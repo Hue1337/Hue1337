@@ -6,6 +6,6 @@
 - 🌱 I’m currently learning competitive programming.
 - 🧶 I'm attending a high school.
 - 📫 How to reach me ?
-- Register on https://discord.com/ and add me as your friend (Hue#4607).
+- Register on https://discord.com/ and add me (Hue#4607).
 - Email me (tonyhvhcsgo@gmail.com).
 
