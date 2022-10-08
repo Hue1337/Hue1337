@@ -13,7 +13,8 @@ I'm currently studying at:
 
 
 How to reach me 📫 ?
+- matigluchowski0410@gmail.com
 - Register on https://discord.com/ and add me (Hue#4607).
-- Email me (tonyhvhcsgo@gmail.com).
+
 
 
