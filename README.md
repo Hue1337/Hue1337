@@ -9,7 +9,7 @@ I'm intersted in:
  - CTFs (HTB, THM, DTW, HTW)
 
 I'm currently studying at:
-  - 🧶 Politechnika Wrocławska 
+  - 🧶 Wroclaw University of Science and Technology
 
 
 How to reach me 📫 ?
