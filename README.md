@@ -7,6 +7,7 @@ I'm intersted in:
  - Cybersecurity
  - Malware development
  - CTFs (HTB, THM, DTW, HTW)
+ - Programming (C++, python)
 
 I'm currently studying at:
   - 🖥 Wroclaw University of Science and Technology
