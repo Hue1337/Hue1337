@@ -6,7 +6,7 @@ I’m @Hue1337
 I'm intersted in:
  - Cybersecurity
  - Malware development
- - CTFs (HTB, THM, DTW, HTW)
+ - CTFs (HTB, THM, DTW)
  - Programming (C++, python)
 
 I'm currently studying at:
