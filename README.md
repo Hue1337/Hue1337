@@ -7,7 +7,7 @@
  - Cybersecurity
  - Malware development
  - CTFs (HTB, THM, DTW)
- - Programming (C++, python)
+ - Programming (C/C++, Python, Java)
 
 ### I'm currently studying at:
   - 🖥 Wroclaw University of Science and Technology
