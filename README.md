@@ -6,7 +6,6 @@
 ### I'm intersted in:
  - Cybersecurity
  - Malware development
- - CTFs (HTB, THM, DTW)
  - Programming (C/C++, Python, Java)
 
 ### I'm currently studying at:
