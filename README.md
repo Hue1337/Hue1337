@@ -5,7 +5,7 @@
 
 ### I'm intersted in:
  - Cybersecurity
- - Programming (C/C++, Python, Java)
+ - Programming languages (C/C++, Python, Java, Rust, SQL/PLSQL)
 
 ### I'm currently studying at:
   - 🖥 Wroclaw University of Science and Technology
