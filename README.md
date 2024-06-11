@@ -5,7 +5,6 @@
 
 ### I'm intersted in:
  - Cybersecurity
- - Malware development
  - Programming (C/C++, Python, Java)
 
 ### I'm currently studying at:
