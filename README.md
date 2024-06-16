@@ -12,7 +12,7 @@
 
 
 ### How to reach me 📫 ?
-- matigluchowski0410@gmail.com
+- mateusz.gluchowski.03@gmail.com
 
 
 
